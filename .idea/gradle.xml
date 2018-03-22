@@ -9,7 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/model-factory" />
             <option value="$PROJECT_DIR$/model-observer" />
+            <option value="$PROJECT_DIR$/model-singleton" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
