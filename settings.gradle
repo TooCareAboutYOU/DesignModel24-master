@@ -1,1 +1,1 @@
-include ':app', ':model-observer', ':model-factory', ':model-singleton'
+include ':app', ':model-observer', ':model-factory', ':model-singleton', ':model-construction'
