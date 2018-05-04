@@ -1,1 +1,1 @@
-include ':app', ':model-observer'
+include ':app', ':model-observer', ':model_oop_six_priniciples', ':model_builder', ':model-prototype', ':model-factory', ':model-abstract-factory', ':model-proxy'

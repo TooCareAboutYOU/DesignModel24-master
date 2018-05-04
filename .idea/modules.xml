@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignModel24-master.iml" filepath="$PROJECT_DIR$/DesignModel24-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model-abstract-factory/model-abstract-factory.iml" filepath="$PROJECT_DIR$/model-abstract-factory/model-abstract-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model-factory/model-factory.iml" filepath="$PROJECT_DIR$/model-factory/model-factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/model-observer/model-observer.iml" filepath="$PROJECT_DIR$/model-observer/model-observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model-prototype/model-prototype.iml" filepath="$PROJECT_DIR$/model-prototype/model-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model-proxy/model-proxy.iml" filepath="$PROJECT_DIR$/model-proxy/model-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model_builder/model_builder.iml" filepath="$PROJECT_DIR$/model_builder/model_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model_oop_six_priniciples/model_oop_six_priniciples.iml" filepath="$PROJECT_DIR$/model_oop_six_priniciples/model_oop_six_priniciples.iml" />
     </modules>
   </component>
 </project>
