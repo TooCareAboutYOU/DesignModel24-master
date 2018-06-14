@@ -3,9 +3,9 @@ package com.designmodel.factory.main;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-
 import com.designmodel.factory.main.factorymethod.BmwCar;
 import com.designmodel.factory.main.simplemodel.Driver;
+import com.model_factory.main.R;
 
 public class MainActivity extends AppCompatActivity {
 
