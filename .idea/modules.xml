@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/model-proxy/model-proxy.iml" filepath="$PROJECT_DIR$/model-proxy/model-proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/model_builder/model_builder.iml" filepath="$PROJECT_DIR$/model_builder/model_builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/model_oop_six_priniciples/model_oop_six_priniciples.iml" filepath="$PROJECT_DIR$/model_oop_six_priniciples/model_oop_six_priniciples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model_singleton/model_singleton.iml" filepath="$PROJECT_DIR$/model_singleton/model_singleton.iml" />
     </modules>
   </component>
 </project>

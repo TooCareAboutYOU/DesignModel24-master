@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/model-proxy" />
             <option value="$PROJECT_DIR$/model_builder" />
             <option value="$PROJECT_DIR$/model_oop_six_priniciples" />
+            <option value="$PROJECT_DIR$/model_singleton" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
